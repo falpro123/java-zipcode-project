@@ -1,0 +1,15 @@
+{
+  "country abbreviation": "US",
+  "places": [
+    {
+      "place name": "Benicia",
+      "longitude": "-122.1614",
+      "post code": "94510",
+      "latitude": "38.0685"
+    }
+  ],
+  "country": "United States",
+  "place name": "Benicia",
+  "state": "California",
+  "state abbreviation": "CA"
+}
