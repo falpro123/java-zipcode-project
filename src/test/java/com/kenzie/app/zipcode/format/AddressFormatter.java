@@ -19,18 +19,26 @@ public class AddressFormatter {
         abbreviationTable.put("ST.", "STREET");
         abbreviationTable.put("St", "STREET");
         abbreviationTable.put("St.", "STREET");
+        abbreviationTable.put("st", "STREET");
+        abbreviationTable.put("st.", "STREET");
         abbreviationTable.put("AVE", "AVENUE");
         abbreviationTable.put("AVE.", "AVENUE");
         abbreviationTable.put("Ave", "AVENUE");
         abbreviationTable.put("Ave.", "AVENUE");
+        abbreviationTable.put("ave", "AVENUE");
+        abbreviationTable.put("ave.", "AVENUE");
         abbreviationTable.put("RD", "ROAD");
         abbreviationTable.put("RD.", "ROAD");
         abbreviationTable.put("Rd", "ROAD");
         abbreviationTable.put("Rd.", "ROAD");
+        abbreviationTable.put("rd", "ROAD");
+        abbreviationTable.put("rd.", "ROAD");
         abbreviationTable.put("BLVD", "BOULEVARD");
         abbreviationTable.put("BLVD.", "BOULEVARD");
         abbreviationTable.put("Blvd", "BOULEVARD");
         abbreviationTable.put("Blvd.", "BOULEVARD");
+        abbreviationTable.put("blvd", "BOULEVARD");
+        abbreviationTable.put("blvd.", "BOULEVARD");
         //ST | STREET
         //St.| STREET
         //ST.| STREET

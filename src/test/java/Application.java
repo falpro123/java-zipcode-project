@@ -21,7 +21,7 @@ public class Application {
             String zipCode;
 
             //Use scanner - read in user input
-            System.out.println("Enter recipient name:");
+            System.out.println("Enter recipient first and last name:");
             recipientName = scanner.nextLine();
 
             //Use scanner - read in user input
